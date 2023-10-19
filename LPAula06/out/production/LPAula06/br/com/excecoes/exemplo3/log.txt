@@ -1,0 +1,2 @@
+Exceção: Cannot invoke "String.toUpperCase()" because "x" is null
+Exceção: Cannot invoke "String.toUpperCase()" because "x" is null

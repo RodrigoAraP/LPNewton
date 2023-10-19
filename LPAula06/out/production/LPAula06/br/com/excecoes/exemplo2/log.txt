@@ -1,0 +1,2 @@
+Arquivo não encontrado: arquivo.txt (O sistema não pode encontrar o arquivo especificado)
+Arquivo não encontrado: arquivo.txt (O sistema não pode encontrar o arquivo especificado)
